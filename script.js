@@ -1,6 +1,5 @@
 // 1. Chiediamo all’utente di inserire una parola
 const parolaUtente = prompt("Inserisci una parola");
-
 // 2. Creiamo una funzione per verificare se è palindroma
 function isPalindroma(parola) {
   // invertiamo la parola
