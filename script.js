@@ -22,3 +22,5 @@ if (risultato) {
 } else {
   console.log("La parola non è palindroma");
 }
+
+
